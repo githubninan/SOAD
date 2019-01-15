@@ -1,0 +1,23 @@
+.sidebar {
+  float:left;
+  width: 25%;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.about {
+  float:left;
+  width: 70%;
+  font-size: 20px;
+  text-align: justify;
+  font-family: sans-serif;
+}
+.sidebar {
+  color:blue;
+  margin: 15px;
+  border: 2px solid blue;
+  padding: 1%;
+  background-color: lightblue;
+}
+.tour {
+  text-align: center;
+}
