@@ -1,6 +1,8 @@
 .sidebar {
   float:left;
   width: 25%;
+  padding: 1%;
+  margin: 2%
   font-size: 20px;
   font-family: sans-serif;
 }
@@ -13,7 +15,8 @@
 }
 .sidebar {
   color:blue;
-  margin: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
   border: 2px solid blue;
   padding: 1%;
   background-color: lightblue;
@@ -23,15 +26,10 @@
 }
 
 img {
-  width: 30%;
+  width: 20%;
   height: auto;
+  float: right;
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
-
-.box {
-  margin: 60px;
-  border: 2px solid grey;
-  padding-left: 3%;
-  background-color: lightgrey;
-  padding-right: 3%;
-  box-sizing: content-box;
-  align-content: center;
