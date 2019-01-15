@@ -21,3 +21,17 @@
 .tour {
   text-align: center;
 }
+
+img {
+  width: 30%;
+  height: auto;
+}
+
+.box {
+  margin: 60px;
+  border: 2px solid grey;
+  padding-left: 3%;
+  background-color: lightgrey;
+  padding-right: 3%;
+  box-sizing: content-box;
+  align-content: center;
